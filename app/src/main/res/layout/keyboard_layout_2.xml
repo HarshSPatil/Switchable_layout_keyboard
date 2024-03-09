@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboardLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+
+
+<!--<LinearLayout-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:orientation="vertical">-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_marginHorizontal="5dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:weightSum="10">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn1"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="1" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn2"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="2" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn3"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="3" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn4"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="4" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn5"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="5" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn6"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:background="@drawable/btn_white_ripple"-->
+<!--            android:text="6" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn7"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:background="@drawable/btn_white_ripple"-->
+<!--            android:text="7" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn8"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="8" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn9"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="9" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btn0"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="0" />-->
+
+<!--    </LinearLayout>-->
+
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_marginHorizontal="5dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:weightSum="10">-->
+
+
+
+<!--        <Button-->
+<!--            android:id="@+id/btnBackSpace"-->
+<!--            style="@style/btnDarkTheme"-->
+<!--            android:layout_weight="3"-->
+<!--            android:text="back" />-->
+
+
+<!--    </LinearLayout>-->
+<!--</LinearLayout>-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_marginHorizontal="5dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:weightSum="10">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnSymb"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="1.5"-->
+<!--            android:text="123"-->
+<!--            android:textSize="20sp" />-->
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/btnIME"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="1"-->
+<!--            android:src="@drawable/round_language_24" />-->
+
+
+<!--        <Button-->
+<!--            android:id="@+id/btnComma"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text=","-->
+<!--            android:textSize="24sp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnSpace"-->
+<!--            style="@style/btnDarkTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="3.5"-->
+<!--            android:text="Space" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnDot"-->
+<!--            style="@style/btnLightTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="."-->
+<!--            android:textSize="24sp" />-->
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/btnEnter"-->
+<!--            style="@style/btnDarkTheme"-->
+<!--            android:layout_height="110px"-->
+<!--            android:layout_weight="2"-->
+<!--            android:src="@drawable/round_keyboard_return_24" />-->
+
+<!--    </LinearLayout>-->
+
+
+</LinearLayout>
